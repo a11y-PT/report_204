@@ -4,7 +4,7 @@ date: "08/10/2026"                    # Entre as aspas escreve a data de criaç�
 uri: "https://formacao.aedl.pt/"   # Entre as aspas escreve o domínio do website
 a11y_statement: "https://formacao.aedl.pt/acessibilidade" # Entre as aspas escreve o URL da Declaração de Acessibilidade do website
 a11y_statement_date: "21/07/2026"  # Entre as aspas escreve a data da Declaração de Acessibilidade
-owner: "nome_do_proprietário"         # Entre as aspas escrever o nome do owner do website
+owner: "AEDL Serviços de Formação"         # Entre as aspas escrever o nome do owner do website
 seal: "Prata"                          # Entre as aspas escreve Bronze, Prata ou Ouro
 validity: "dd/mm/aaaa a dd/mm/aaaa" # Entre as aspas escreve data de início e data de fim no formato 31/12/1999 a 31/12/2000
 status: "A aguardar correções da entidade" # Entre as aspas escreve uma das seguintes opções: "Auditoria a decorrer", "A aguardar correções da entidade", "Concluído" 
